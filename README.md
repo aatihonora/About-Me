@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on C++ game, Python project and on Godot<br>👯 I’m looking to collaborate on Godot game development <br>🌱 I’m currently learning C++, Godot and Golang<br>💬 Ask me about anything and I will readily answer your query.<br>⚡ Fun fact I am a bit history geek that loves tinkering with computers.
+🔭 I’m currently working on C++ game, Python project and on Godot<br>👯 I’m looking to collaborate on Godot game development <br>🌱 I’m currently learning C++, Godot and Golang<br>💬 Ask me about anything and I will readily answer your query.<br>⚡ Fun fact I am a bit of history geek that loves to tinker with computers.
 
 
 ## 🌐 Socials:
